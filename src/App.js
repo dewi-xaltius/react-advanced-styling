@@ -1,7 +1,6 @@
 import MyComponent from "./components/MyComponent";
 import MyStyledComponent from "./components/MyStyledComponent";
 
-
 function App() {
   return (
     <>
